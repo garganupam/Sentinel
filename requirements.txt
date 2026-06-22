@@ -1,0 +1,18 @@
+# --- M1: Webhook server ---
+fastapi
+uvicorn
+python-dotenv
+PyGithub
+
+# --- M2: Review agents ---
+google-genai
+pydantic
+langgraph
+
+# --- M3: RAG ---
+chromadb
+sentence-transformers
+
+# --- M4: Sandbox ---
+docker
+requests
