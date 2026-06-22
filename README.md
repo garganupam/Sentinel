@@ -272,5 +272,5 @@ On the PR, the bot posts the Logic and Security findings as advisory comments, r
 - ✅ **M3** — RAG pipeline: AST-aware chunking, local embeddings, ChromaDB, token-budgeted retrieval
 - ✅ **M4** — Docker sandbox build/test verification + commit-status reporting
 
-*************************************** IMPROVEMENT WILL STILL BE GOING ON ***************************************
+***************************** IMPROVEMENT IS STILL GOING ON *******************************
 
