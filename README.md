@@ -1,6 +1,6 @@
 # AI PR Reviewer
 
-An autonomous, multi-agent GitHub bot that **reviews pull requests, verifies them in an isolated sandbox, and reports a clear pass/fail status** — while always leaving the final merge decision to a human.
+An autonomous, multi-agent GitHub bot that **reviews pull requests, verifies them in an isolated sandbox, and reports a clear pass/fail status** — while always leaving the final merge decision to a human.( RIGHT NOW WORKABLE FOR PYTHON BASED CODES)
 
 ![Python](https://img.shields.io/badge/python-3.9-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-async-009688)
